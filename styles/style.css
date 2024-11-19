@@ -13,6 +13,7 @@ body {
   grid-template-areas:
     "aside nav nav nav nav"
     "aside section section section section";
+  background: white;
 }
 
 ul {
